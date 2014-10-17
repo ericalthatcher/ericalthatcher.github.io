@@ -50,10 +50,6 @@ body {
   position: relative;
   cursor: default; }
 
-h2.name {
-  color: #B565A7;
-}
-
 a:hover {
   cursor: pointer; }
 

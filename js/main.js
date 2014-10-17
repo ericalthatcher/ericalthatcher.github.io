@@ -1,6 +1,5 @@
-// /* global $ */
-// 'use strict';
 
-// $('li.resume).on('click', function () {
-//     $('a.first-modal').trigger(;
-// });
+$('.resume').click(function() {
+  console.log("Resume link was clicked!");
+});
+
